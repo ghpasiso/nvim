@@ -11,3 +11,9 @@ my neovim configuration
 apt install python3-pip
 ```
 
+## Install
+```bash
+cd $HOME/.config
+git clone https://github.com/ghpasiso/nvim.git
+```
+
