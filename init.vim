@@ -19,6 +19,7 @@ set cmdheight=2
 set updatetime=300
 set shortmess+=c
 set signcolumn=yes
+set mouse=
 
 let mapleader=" "
 
@@ -29,7 +30,6 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-scripts/nginx.vim'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'jiangmiao/auto-pairs'
-Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'tpope/vim-commentary'
 Plug 'nvim-tree/nvim-web-devicons' " optional, for file icons
