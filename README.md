@@ -1,7 +1,7 @@
 # nvim
 my neovim configuration
 
-## Dependencies
+## How to use
 ### 1. install neovim
 ### 2. install vim-plug
 
