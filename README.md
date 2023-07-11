@@ -4,6 +4,11 @@ my neovim configuration
 ## How to use
 ### 1. install neovim
 ### 2. install vim-plug
+```
+mkdir -p ~/.local/share/nvim/site/autoload/
+cd ~/.local/share/nvim/site/autoload/
+wget https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
 
 ### 3. clone this repo to your neovim configuration path
 ```bash
